@@ -1,3 +1,4 @@
+# Provinces are separated by an empty line
 BUF - Buffalo City Metropolitan Municipality [East London]
 NMA - Nelson Mandela Bay [Port Elizabeth]
 EC101 - Camdeboo [Graaff-Reinet]

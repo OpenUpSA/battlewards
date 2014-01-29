@@ -1,0 +1,36 @@
+#wards[Winner=DA][Margin<10] {
+    fill: darkgreen;
+}
+
+#wards[Winner=DA][Margin>=10] {
+    fill: lightgreen;
+}
+
+
+#wards[Winner=ANC][Margin<10] {
+    fill: orange;
+}
+
+#wards[Winner=ANC][Margin>=10] {
+    fill: yellow;
+}
+
+#wards[OtherWinne=True] {
+    fill: #e9ddaf;
+}
+
+#wards[OtherWinne=True][Margin<10] {
+    fill: pink;
+}
+
+#towns-label[LEVEL=2] {
+    font-family: arial;
+    font-weight: 900;
+    font-size: 40px;
+}
+
+#towns-label[LEVEL=1] {
+    font-family: arial;
+    font-weight: 900;
+    font-size: 60px;
+}
